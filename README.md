@@ -1,1 +1,1 @@
-# jquery-plugin-practice
+# Jquery-Plugin-Practices
